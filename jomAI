@@ -163,7 +163,7 @@
 
     <script type="module">
         // ================= CONFIGURATION =================
-        const API_KEY = "AIzaSyA8zT06IPiBqznQoAdCfLHzqulQtFdwZsc"; // Use the provided API key logic
+        const API_KEY = ""; // Use the provided API key logic
         const MODEL_NAME = "gemini-2.5-flash-preview-09-2025"; 
         
         // Jomari's complete profile data, injected into the AI system instruction
